@@ -3,4 +3,9 @@ PID (proportional integral derivative) controllers use a control loop feedback m
 
 ![pid balance full image](https://user-images.githubusercontent.com/108229479/179346123-37cf8576-5445-4e7e-bfcf-b64d72b1008a.jpeg)
 
-## Introduction
+# Introduction :shipit:
+- The PID balance uses control mechanism, which consists of balance control and position control as primary input
+- Uses Feedback mechanism
+# real life application :thinking:
+- Self- Balancing Robot
+- Drones
